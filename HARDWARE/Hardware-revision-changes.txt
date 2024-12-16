@@ -1,0 +1,13 @@
+Rev.E
+=====
+1. Added second GND on pin 16.
+2. The resize from revision D was reverted, it was deemed unnecessary after the plastic box was made.
+
+Rev.D
+=====
+1. Remade the whole board in KiCad 7 and all components moved to the top side. All packages and routing re-done.
+2. Board made a bit larger to make the USB stronger.
+
+Rev.C
+=====
+Initial board release.
